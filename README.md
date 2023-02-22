@@ -1,2 +1,4 @@
 # GeoMetryxMc
-Szukasz jakiegoś geopoltyka? GeoMetryxMc jest idealny posiadamy własne dc i server mc!
+
+witaj na oficialnej stronie servera GeoMetryxMc, strona zotanie ukończona już w krótce!
+
